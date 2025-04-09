@@ -1,2 +1,2 @@
 # frosty_friday
-Snowflake Frosty Friday字学習用リポジトリ
+Snowflake Frosty Friday自学習用リポジトリ
